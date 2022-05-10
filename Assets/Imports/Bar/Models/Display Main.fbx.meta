@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 0c3f33a2ca889dc4cbc5d2a54163e3a3
+timeCreated: 1510890517
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Display.000
+    100004: Display.001
+    100006: Display.002
+    100008: Display.003
+    100010: Display.004
+    100012: Display.005
+    100014: Display.006
+    100016: Display.007
+    100018: Display.008
+    100020: Display.009
+    100022: Display.010
+    100024: Display.011
+    100026: Display.012
+    100028: Display.013
+    100030: Display.014
+    100032: Display.015
+    100034: Display.016
+    100036: Display.017
+    100038: Display.018
+    100040: Display.019
+    100042: Display.020
+    100044: Display.021
+    400000: //RootNode
+    400002: Display.000
+    400004: Display.001
+    400006: Display.002
+    400008: Display.003
+    400010: Display.004
+    400012: Display.005
+    400014: Display.006
+    400016: Display.007
+    400018: Display.008
+    400020: Display.009
+    400022: Display.010
+    400024: Display.011
+    400026: Display.012
+    400028: Display.013
+    400030: Display.014
+    400032: Display.015
+    400034: Display.016
+    400036: Display.017
+    400038: Display.018
+    400040: Display.019
+    400042: Display.020
+    400044: Display.021
+    2300000: Display.000
+    2300002: Display.001
+    2300004: Display.002
+    2300006: Display.003
+    2300008: Display.004
+    2300010: Display.005
+    2300012: Display.006
+    2300014: Display.007
+    2300016: Display.008
+    2300018: Display.009
+    2300020: Display.010
+    2300022: Display.011
+    2300024: Display.012
+    2300026: Display.013
+    2300028: Display.014
+    2300030: Display.015
+    2300032: Display.016
+    2300034: Display.017
+    2300036: Display.018
+    2300038: Display.019
+    2300040: Display.020
+    2300042: Display.021
+    3300000: Display.000
+    3300002: Display.001
+    3300004: Display.002
+    3300006: Display.003
+    3300008: Display.004
+    3300010: Display.005
+    3300012: Display.006
+    3300014: Display.007
+    3300016: Display.008
+    3300018: Display.009
+    3300020: Display.010
+    3300022: Display.011
+    3300024: Display.012
+    3300026: Display.013
+    3300028: Display.014
+    3300030: Display.015
+    3300032: Display.016
+    3300034: Display.017
+    3300036: Display.018
+    3300038: Display.019
+    3300040: Display.020
+    3300042: Display.021
+    4300000: Display.021
+    4300002: Display.020
+    4300004: Display.019
+    4300006: Display.018
+    4300008: Display.017
+    4300010: Display.016
+    4300012: Display.015
+    4300014: Display.014
+    4300016: Display.013
+    4300018: Display.012
+    4300020: Display.011
+    4300022: Display.010
+    4300024: Display.008
+    4300026: Display.007
+    4300028: Display.006
+    4300030: Display.005
+    4300032: Display.004
+    4300034: Display.003
+    4300036: Display.002
+    4300038: Display.001
+    4300040: Display.000
+    4300042: Display.009
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

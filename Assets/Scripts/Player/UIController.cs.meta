@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 914e3583069aabd4fbad8bb8beb35f88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UIController: {instanceID: 0}
+  - BaseController: {instanceID: 0}
+  - inputActionReferenceUISwitcher: {fileID: -6395602842196007441, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  - UICanvasGameobject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
